@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-container {
+    @apply bg-red-400  px-4 py-8 mx-auto  sm:max-w-xl md:max-w-full lg:max-w-full md:px-24 lg:px-8 
+}
+
+.btn-primary {
+    @apply bg-indigo-500 hover:bg-indigo-700 px-6 py-2 border-none outline-none rounded text-white font-medium transition duration-200 md:px-8 lg:py-3 text-lg cursor-pointer 
+}
+
+.btn-secondary {
+    @apply bg-indigo-500 hover:bg-indigo-700 px-6 py-2 border-none outline-none rounded-full text-white font-medium transition duration-200 md:px-12 lg:py-3 text-lg cursor-pointer
+}
+
+.btn-outline {
+    @apply bg-transparent hover:bg-indigo-700 px-6 py-2 border-2 hover:border-none border-indigo-700 outline-none rounded-full text-white font-medium transition duration-200 md:px-12 lg:py-3 text-lg cursor-pointer
+}
+
+.search-input {
+    @apply outline-none rounded px-3 py-2 bg-transparent 
+}
+
+.search-input::placeholder {
+    @apply text-white font-medium
+}
+
+.my-animation {
+    @apply animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black
+}
+
+.grid-container {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 container mx-auto gap-6 my-8 px-3 py-5
+}

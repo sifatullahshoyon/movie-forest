@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rating": 8.8,
+    "price": 30,
+    "image": "https://i.ibb.co/1Lmmjhb/Inception.jpg",
+    "details": {
+      "summary": "A thief who enters the dreams of others to steal their secrets embarks on a mission to implant an idea instead of stealing it.",
+      "runtime": 148,
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "awards": {
+        "oscars": 4,
+        "nominations": 8
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "genre": ["Drama"],
+    "rating": 9.3,
+    "price": 45,
+    "image": "https://i.ibb.co/x7cF3Gw/086ffeccab22baa2b4d49ab8787f9b90.jpg",
+    "details": {
+      "summary": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "runtime": 142,
+      "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "awards": {
+        "oscars": 0,
+        "nominations": 7
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "genre": ["Crime", "Drama"],
+    "rating": 9.2,
+    "price": 25,
+    "image": "https://i.ibb.co/yqrndCW/492352ccebc8f0de15180857f08554a3.jpg",
+    "details": {
+      "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "runtime": 175,
+      "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "awards": {
+        "oscars": 3,
+        "nominations": 11
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "genre": ["Crime", "Drama"],
+    "rating": 8.9,
+    "price": 32,
+    "image": "https://i.ibb.co/H4wr9GW/f293a0e74b6703a74d6c87a055d0fc4c.jpg",
+    "details": {
+      "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.",
+      "runtime": 154,
+      "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "awards": {
+        "oscars": 1,
+        "nominations": 7
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "genre": ["Drama", "Romance"],
+    "rating": 8.8,
+    "price": 55,
+    "image": "https://i.ibb.co/bvY6pB0/13982aedfb82420cbcf1b44f616539f4.jpg",
+    "details": {
+      "summary": "The story of a man with a low IQ who accomplished great things in his life despite the challenges he faced.",
+      "runtime": 142,
+      "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "awards": {
+        "oscars": 6,
+        "nominations": 13
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 9.0,
+    "price": 38,
+    "image": "https://i.ibb.co/891ZNry/839a046d5787aa573073ae170a07ed4a.jpg",
+    "details": {
+      "summary": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham City, but faces a new and sadistic criminal known as the Joker.",
+      "runtime": 152,
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "awards": {
+        "oscars": 2,
+        "nominations": 8
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 8.7,
+    "price": 22,
+    "image": "https://i.ibb.co/3r1XFkG/1a5d80adf34736cf6871c5eefb0baf2d.jpg",
+    "details": {
+      "summary": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+      "runtime": 136,
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "awards": {
+        "oscars": 4,
+        "nominations": 4
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "genre": ["Biography", "Drama", "History"],
+    "rating": 8.9,
+    "price": 27,
+    "image": "https://i.ibb.co/mBtQhQq/526260bde861a201e70be36d997053e5.jpg",
+    "details": {
+      "summary": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+      "runtime": 195,
+      "cast": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"],
+      "awards": {
+        "oscars": 7,
+        "nominations": 12
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "genre": ["Biography", "Crime", "Drama"],
+    "rating": 8.7,
+    "price": 31,
+    "image": "https://i.ibb.co/ggNH3Yz/407fbabc044a23cfbf19f3d32206d013.jpg",
+    "details": {
+      "summary": "A young man grows up in the mob and works hard to advance himself through the ranks, but his life of crime comes at a high cost.",
+      "runtime": 146,
+      "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+      "awards": {
+        "oscars": 1,
+        "nominations": 6
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": 8.9,
+    "price": 44,
+    "image": "https://i.ibb.co/x2LP3w1/da6215975e9cf756e5e2e0235b237264.jpg ",
+    "details": {
+      "summary": "The former fellowship members prepare for the final battle to save Middle Earth from Sauron's forces.",
+      "runtime": 201,
+      "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+      "awards": {
+        "oscars": 11,
+        "nominations": 11
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": 8.6,
+    "price": 18,
+    "image": "https://i.ibb.co/f9mD5vw/592f2c50c6369690734c7bb744fc90c6.jpg",
+    "details": {
+      "summary": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer.",
+      "runtime": 118,
+      "cast": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+      "awards": {
+        "oscars": 5,
+        "nominations": 7
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont",
+    "genre": ["Crime", "Drama", "Fantasy"],
+    "rating": 8.6,
+    "price": 36,
+    "image": "https://i.ibb.co/0B5dJHM/69f92f0ac390e1b571c515c3f8dd6d15.jpg",
+    "details": {
+      "summary": "The lives of guards on Death Row are affected by one inmate who has a mysterious gift.",
+      "runtime": 189,
+      "cast": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+      "awards": {
+        "oscars": 4,
+        "nominations": 4
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "genre": ["Drama", "War"],
+    "rating": 8.6,
+    "price": 42,
+    "image": "https://i.ibb.co/Zf8kqQm/db5769a55f6cc545a7dc61ae457e8d95.jpg",
+    "details": {
+      "summary": "Following the Normandy Landings, a group of soldiers goes behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "runtime": 169,
+      "cast": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+      "awards": {
+        "oscars": 5,
+        "nominations": 11
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "The Departed",
+    "year": 2006,
+    "director": "Martin Scorsese",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": 8.5,
+    "price": 18,
+    "image": "https://i.ibb.co/RTsngPV/36938dc4c436682485374b1d892650e3.jpg",
+    "details": {
+      "summary": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
+      "runtime": 151,
+      "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+      "awards": {
+        "oscars": 4,
+        "nominations": 5
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": 8.5,
+    "price": 46,
+    "image": "https://i.ibb.co/3RX9KdJ/b6bc6f571385cfd11627e6f973a112fe.jpg",
+    "details": {
+      "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "runtime": 155,
+      "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+      "awards": {
+        "oscars": 5,
+        "nominations": 12
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "The Prestige",
+    "year": 2006,
+    "director": "Christopher Nolan",
+    "genre": ["Drama", "Mystery", "Sci-Fi"],
+    "rating": 8.5,
+    "price": 14,
+    "image": "https://i.ibb.co/F3PJpvN/dbbc3f5ec3545c9427e4947cb8aecd5f.jpg",
+    "details": {
+      "summary": "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.",
+      "runtime": 130,
+      "cast": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
+      "awards": {
+        "oscars": 0,
+        "nominations": 2
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "genre": ["Biography", "Drama", "Music"],
+    "rating": 8.5,
+    "price": 29,
+    "image": "https://i.ibb.co/1v1Ps8M/6e243cd38ec3aa599cfbed0ffe6532be.jpg",
+    "details": {
+      "summary": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto during World War II.",
+      "runtime": 150,
+      "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+      "awards": {
+        "oscars": 3,
+        "nominations": 7
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "genre": ["Adventure", "Drama", "War"],
+    "rating": 8.3,
+    "price": 32,
+    "image": "https://i.ibb.co/2YG3fSm/881d87e9fa672b894170d01e48cced34.jpg",
+    "details": {
+      "summary": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "runtime": 153,
+      "cast": ["Brad Pitt", "Diane Kruger", "Eli Roth"],
+      "awards": {
+        "oscars": 1,
+        "nominations": 8
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "genre": ["Animation", "Adventure", "Drama"],
+    "rating": 8.5,
+    "price": 52,
+    "image": "https://i.ibb.co/1z4391D/0507cff221a01e707d8ead1262a01487.jpg",
+    "details": {
+      "summary": "Lion cub Simba must navigate the challenges of growing up and reclaim his rightful kingdom after the murder of his father.",
+      "runtime": 88,
+      "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+      "awards": {
+        "oscars": 2,
+        "nominations": 4
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "genre": ["Biography", "Drama"],
+    "rating": 7.7,
+    "price": 48,
+    "image": "https://i.ibb.co/SngVW7S/e4d8121bec930e6aca078e237a54b4c0.jpg",
+    "details": {
+      "summary": "The story of the founding of Facebook and the lawsuits that followed its creation.",
+      "runtime": 120,
+      "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+      "awards": {
+        "oscars": 3,
+        "nominations": 8
+      }
+    }
+  }
+]
